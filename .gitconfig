@@ -1,3 +1,5 @@
 [user]
 	email = dlqjagml6447@naver.com
 	name = leebum
+[core]
+	autocrlf = true

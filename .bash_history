@@ -40,3 +40,4 @@ git clone -b Branch_Dev --single-branch https://github.com/BeHappyHufs/BeHappy.g
 git clone -b Branch_Dev --single-branch https://github.com/BeHappyHufs/BeHappy.git
 git clone -b Branch_Dev --single-branch https://github.com/BeHappyHufs/BeHappy.git
 git clone -b Branch_Dev --single-branch https://github.com/BeHappyHufs/BeHappy.git
+git clone -b Branch_Dev --single-branch https://github.com/BeHappyHufs/BeHappy.git
